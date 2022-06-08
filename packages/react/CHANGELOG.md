@@ -1,5 +1,15 @@
 # Change Log
 
+## 2.2.2
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @chakra-ui/system@2.1.4
+  - @chakra-ui/provider@2.0.7
+  - @chakra-ui/skeleton@2.0.7
+  - @chakra-ui/toast@2.1.1
+
 ## 2.2.1
 
 ### Patch Changes
