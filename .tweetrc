@@ -1,10 +1,8 @@
 {
-  "version": "2.2.1",
-  "releaseUrl": "https://github.com/chakra-ui/chakra-ui/releases/tag/@chakra-ui/react@2.2.1",
-  "patches": [
-    "- Fixed a regression where useStyles and StylesProvider was removed from\n`@chakra-ui/system` \n"
-  ],
+  "version": "2.2.2",
+  "releaseUrl": "https://github.com/chakra-ui/chakra-ui/releases/tag/@chakra-ui/react@2.2.2",
+  "patches": [],
   "features": [
-    "- Add support for `portalProps` in toast provider. When using with the\n  `ChakraProvider`, this can be configure in the `toastOptions`"
+    "- Check if the MediaQueryList object supports the addEventListener() method, else\nfallback to the legacy .addListener() method. \n"
   ]
 }
