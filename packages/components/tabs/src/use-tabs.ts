@@ -181,7 +181,6 @@ export const [TabsProvider, useTabsContext] = createContext<UseTabsReturn>({
 export interface UseTabListProps {
   children?: React.ReactNode
   onKeyDown?: React.KeyboardEventHandler
-  ref?: React.Ref<any>
 }
 
 /**
